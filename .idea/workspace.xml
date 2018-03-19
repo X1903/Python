@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f65ba55d-fb43-4979-8ae5-e4a052fe76cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.第一章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/1.初识正则表达式/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/1.初识正则表达式/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/10.re.sub正则替换/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/10.re.sub正则替换/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/11.把函数作为参数传递/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/11.把函数作为参数传递/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/12.search与match函数/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/12.search与match函数/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/4.概括字符集/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/4.概括字符集/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/5.数量词/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/5.数量词/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/6.贪婪与非贪婪/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.第十章/6.贪婪与非贪婪/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/10.什么事闭包/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/10.什么事闭包/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/11.一个示例看看闭包/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/11.一个示例看看闭包/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/12.闭包的经典误区/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/12.闭包的经典误区/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/13.出个题，用闭包解决/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/13.出个题，用闭包解决/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/14.我先用闭包解决一下/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/15.再用闭包解决一下/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/16.小谈函数式编程/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/2.枚举和普通类相比有什么优势/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/2.枚举和普通类相比有什么优势/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/3.枚举类型、枚举名称、枚举值/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/3.枚举类型、枚举名称、枚举值/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/4.枚举的比较运算/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/4.枚举的比较运算/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/5.枚举的注意事项/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/5.枚举的注意事项/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/6.枚举转换/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/6.枚举转换/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/7.枚举小结/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/7.枚举小结/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/8.进阶内容开场白/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/8.进阶内容开场白/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/9.一切皆对象/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.第十一章/9.一切皆对象/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/1.lambda表达式/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/2.三元表达式/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/3.map/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/4.map与lambda/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/5.reduce/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/6.filter/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/7.命令式编程vs函数式编程/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/8.装饰器一/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.第十二章/9.装饰器二/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13.第十三章/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13.第十三章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14.第十四章/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14.第十四章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.第二章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/1.列表的定义/1.list1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/1.列表的定义/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/2.列表的操作/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/3.序列/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/4.序列的总结/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/5.集合/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/5.集合/set.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/6.字典/dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/6.字典/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/1.什么是变量/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/1.什么是变量/variable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/10.成员运算符/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/11.身份运算符/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/12.如何判断变量的值、类型/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/13.位运算符/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/2.变量的命名规则/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/3.值类型与引用类型/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/4.列表的可变与元组的不可变/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/5.运算符号/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/1.什么是表达式/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/1.什么是表达式/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/10.流程控制语句之条件控制四/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/10.流程控制语句之条件控制四/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/2.表达式的优先级/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/2.表达式的优先级/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/4.在文本文件中编写python代码/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/4.在文本文件中编写python代码/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/5.熟悉VSCode开发环境与python插件安装/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/5.熟悉VSCode开发环境与python插件安装/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/6.流程控制语句之条件控制一/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/6.流程控制语句之条件控制一/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/7.常量与pylint的规范/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/7.常量与pylint的规范/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/8.流程控制语句之条件控制二/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/8.流程控制语句之条件控制二/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/9.流程控制语句之条件控制三/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/9.流程控制语句之条件控制三/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.第六章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.赋值运算符/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/7.比较运算符/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/8.不只是数字才能做比较运算/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/9.逻辑运算符/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/1.while循环与使用场景/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/1.while循环与使用场景/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/2.for与for-else循环/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/2.for与for-else循环/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/3.for与range/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/3.for与range/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/4.新篇章导言/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/4.新篇章导言/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/5.python工程的组织结构：包。模块、类/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/5.python工程的组织结构：包。模块、类/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/6.python包与模块的名字/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/6.python包与模块的名字/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/7.import导入模块/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/7.import导入模块/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/8.from import导入变量/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/8.from import导入变量/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/1.认识函数/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/1.认识函数/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/1.类的定义/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/1.类的定义/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/10.类方法/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/10.类方法/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/11.静态方法/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/11.静态方法/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/13.没有什么是不能访问/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/13.没有什么是不能访问/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/14.继承/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/14.继承/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/15.子类方法调用父类的方法：super关键字/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/15.子类方法调用父类的方法：super关键字/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/3.类与对象/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/3.类与对象/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/4.构造函数/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/4.构造函数/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/6.类变量和实例变量/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/6.类变量和实例变量/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/7.类与对象的变量查找顺序/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/7.类与对象的变量查找顺序/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/8.self与实例方法/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/8.self与实例方法/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/9.在实例方法中访问实例变量与类变量/code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/9.在实例方法中访问实例变量与类变量/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/readme.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.第一章/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="width" value="1440" />
+    <option name="height" value="1800" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="1.第一章" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f65ba55d-fb43-4979-8ae5-e4a052fe76cd" name="Default" comment="" />
+      <created>1521431898671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521431898671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="0" width="1440" height="1800" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.第一章/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
