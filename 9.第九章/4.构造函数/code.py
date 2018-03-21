@@ -1,6 +1,6 @@
 
 # 模板
-clss Student():
+class Student():
     name = ''
     age = 0
 
@@ -11,7 +11,7 @@ clss Student():
         age = age
         # print('student')
 
-    # 行为特征
+    # 行为特征a
     def do_homework(self):
         print('homework')
     

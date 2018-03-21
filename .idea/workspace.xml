@@ -2,76 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65ba55d-fb43-4979-8ae5-e4a052fe76cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/Python数据类型总结.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/2.表达式的优先级/运算符优先级.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/301什么是代码-什么是写代码.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/302Python的基本数据类型.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/303-304-10,2,8,16进制.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/305python的基本数据类型2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/306-Python的及嫩数据类型-复数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/307Python的字符串单双三引号.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/308python的字符串-转义字符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/309python字符串原始字符串.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.第三章/310-312字符串运算.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/1.列表的定义/1.list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/2.列表的操作/2.list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/3.序列/3.序列.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.第四章/4.序列的总结/4.序列总结.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/10.成员运算符/成员运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/11.身份运算符/身份运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/12.如何判断变量的值、类型/判断变量的值和类型.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/13.位运算符/位运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/2.变量的命名规则/变量命名规则.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/3.值类型与引用类型/值类型与引用类型.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/4.列表的可变与元组的不可变/list和tuple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/5.运算符号/运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/6.赋值运算符/赋值运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/7.比较运算符/比较运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/8.不只是数字才能做比较运算/比较运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.第五章/9.逻辑运算符/逻辑运算符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/1.什么是表达式/表达式.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/10.流程控制语句之条件控制四/流程控制语句之条件控制四.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/11.动态语言.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/2.表达式的优先级/表达式的优先级.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/4.在文本文件中编写python代码/基本类型与基本概念.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/6.流程控制语句之条件控制一/流程控制语句之条件控制一.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/7.常量与pylint的规范/流程控制语句.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/8.流程控制语句之条件控制二/流程控制语句之条件控制二.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.第六章/9.流程控制语句之条件控制三/流程控制语句之条件控制三.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/1.while循环与使用场景/while循环与使用场景.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/2.for与for-else循环/for与for-else循环.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/3.for与range/for与range.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/4.新篇章导言/新篇章导言.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4.第四章/1.列表的定义/1.list1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/1.什么是表达式/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/2.表达式的优先级/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/4.在文本文件中编写python代码/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/5.熟悉VSCode开发环境与python插件安装/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/6.流程控制语句之条件控制一/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/7.常量与pylint的规范/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/8.流程控制语句之条件控制二/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/9.流程控制语句之条件控制三/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/1.while循环与使用场景/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/2.for与for-else循环/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/3.for与range/code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/4.新篇章导言/code.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/1.什么是表达式/readme.md" afterPath="$PROJECT_DIR$/6.第六章/1.什么是表达式/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/10.流程控制语句之条件控制四/code.py" afterPath="$PROJECT_DIR$/6.第六章/5.熟悉VSCode开发环境与python插件安装/code.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/10.流程控制语句之条件控制四/readme.md" afterPath="$PROJECT_DIR$/6.第六章/10.流程控制语句之条件控制四/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/2.表达式的优先级/readme.md" afterPath="$PROJECT_DIR$/6.第六章/2.表达式的优先级/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/4.在文本文件中编写python代码/readme.md" afterPath="$PROJECT_DIR$/6.第六章/4.在文本文件中编写python代码/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/5.熟悉VSCode开发环境与python插件安装/readme.md" afterPath="$PROJECT_DIR$/6.第六章/5.熟悉VSCode开发环境与python插件安装/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/6.流程控制语句之条件控制一/readme.md" afterPath="$PROJECT_DIR$/6.第六章/6.流程控制语句之条件控制一/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/7.常量与pylint的规范/readme.md" afterPath="$PROJECT_DIR$/6.第六章/7.常量与pylint的规范/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/8.流程控制语句之条件控制二/readme.md" afterPath="$PROJECT_DIR$/6.第六章/8.流程控制语句之条件控制二/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/9.流程控制语句之条件控制三/readme.md" afterPath="$PROJECT_DIR$/6.第六章/9.流程控制语句之条件控制三/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5.第五章/6.第六章/readme.md" afterPath="$PROJECT_DIR$/6.第六章/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c14.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c17.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c18.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/p/p1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/p/p2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/p/p3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/p/p4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/t/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/t/c7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/t/c8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/t/t1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/t/t1/c9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/5.python工程的组织结构：包。模块、类/python工程的组织结构：包。模块、类.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/6.python包与模块的名字/python工程的组织结构：包。模块、类.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/7.import导入模块/import导入模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/8.from import导入变量/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/8.from import导入变量/c7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/8.from import导入变量/from import导入变量.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/_init_.py的用法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/c11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/c12.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/c13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/c7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/c8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/t/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/t/c7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/t/c8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/t/t1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/t/t1/c9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/1.认识函数/1.认识函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/10.作用域链/作用域链.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/10.作用域链/作用域链2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/11.global关键字/c13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/11.global关键字/global关键字.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/12.划算还是不划算/划算不划算.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/c3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/如何让函数返回多个结果.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/序列解包与链式赋值.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/默认参数与关键字参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/7.可变参数/可变参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/8.关键字可变参数/关键字可变参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/9.变量作用域/变量作用域.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/默认参数/c6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.第八章/默认参数/默认参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/成员可见性.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/14.继承/c5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/14.继承/c6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/3.类与对象/类与对象.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.第九章/8.self与实例方法/self与实例方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/乘法口诀.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/6.python包与模块的名字/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/7.import导入模块/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/8.from import导入变量/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7.第七章/9._init_.py的用法/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8.第八章/1.认识函数/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/13.没有什么是不能访问/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9.第九章/14.继承/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9.第九章/3.类与对象/code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9.第九章/8.self与实例方法/code.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7.第七章/5.python工程的组织结构：包。模块、类/code.py" afterPath="$PROJECT_DIR$/9.第九章/13.没有什么是不能访问/没有什么不能访问.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/code.py" afterPath="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/函数的定义及运行特点.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/13.没有什么是不能访问/readme.md" afterPath="$PROJECT_DIR$/9.第九章/13.没有什么是不能访问/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/code.py" afterPath="$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/code.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.第四章/5.集合/set.py" afterPath="$PROJECT_DIR$/4.第四章/5.集合/set.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.第四章/6.字典/dict.py" afterPath="$PROJECT_DIR$/4.第四章/6.字典/dict.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5.第五章/1.什么是变量/variable.py" afterPath="$PROJECT_DIR$/5.第五章/1.什么是变量/variable.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9.第九章/1.类的定义/code.py" afterPath="$PROJECT_DIR$/9.第九章/1.类的定义/code.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/code.py" afterPath="$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/code.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9.第九章/4.构造函数/code.py" afterPath="$PROJECT_DIR$/9.第九章/4.构造函数/code.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9.第九章/6.类变量和实例变量/code.py" afterPath="$PROJECT_DIR$/9.第九章/6.类变量和实例变量/code.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,52 +83,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python$c5.coverage" NAME="c5 Coverage Results" MODIFIED="1521622321505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九章/14.继承" />
     <SUITE FILE_PATH="coverage/Python$11_.coverage" NAME="11.动态语言 Coverage Results" MODIFIED="1521454977514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.第六章" />
     <SUITE FILE_PATH="coverage/Python$while.coverage" NAME="while循环与使用场景 Coverage Results" MODIFIED="1521458024072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/1.while循环与使用场景" />
-    <SUITE FILE_PATH="coverage/Python$variable.coverage" NAME="variable Coverage Results" MODIFIED="1521440519764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五章/1.什么是变量" />
+    <SUITE FILE_PATH="coverage/Python$1_.coverage" NAME="1.认识函数 Coverage Results" MODIFIED="1521544485979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八章/1.认识函数" />
     <SUITE FILE_PATH="coverage/Python$302Python.coverage" NAME="302Python的基本数据类型 Coverage Results" MODIFIED="1521432591524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.第三章" />
-    <SUITE FILE_PATH="coverage/Python$forrange.coverage" NAME="for与range Coverage Results" MODIFIED="1521458874757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/3.for与range" />
+    <SUITE FILE_PATH="coverage/Python$2.coverage" NAME="作用域链2 Coverage Results" MODIFIED="1521549733852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八章/10.作用域链" />
+    <SUITE FILE_PATH="coverage/Python$from_import.coverage" NAME="from import导入变量 Coverage Results" MODIFIED="1521542244503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/8.from import导入变量" />
     <SUITE FILE_PATH="coverage/Python$307Python1.coverage" NAME="307Python的字符串1 Coverage Results" MODIFIED="1521434537989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.第三章" />
+    <SUITE FILE_PATH="coverage/Python$global.coverage" NAME="global关键字 Coverage Results" MODIFIED="1521549766776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八章/11.global关键字" />
+    <SUITE FILE_PATH="coverage/Python$c13.coverage" NAME="c13 Coverage Results" MODIFIED="1521549851740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八章/11.global关键字" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="乘法口诀 Coverage Results" MODIFIED="1521554092326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$variable.coverage" NAME="variable Coverage Results" MODIFIED="1521440519764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五章/1.什么是变量" />
+    <SUITE FILE_PATH="coverage/Python$forrange.coverage" NAME="for与range Coverage Results" MODIFIED="1521458874757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/3.for与range" />
+    <SUITE FILE_PATH="coverage/Python$c6.coverage" NAME="c6 Coverage Results" MODIFIED="1521621796671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九章/14.继承" />
+    <SUITE FILE_PATH="coverage/Python$_init__py.coverage" NAME="_init_.py的用法 Coverage Results" MODIFIED="1521542719190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/9._init_.py的用法" />
+    <SUITE FILE_PATH="coverage/Python$c15.coverage" NAME="c15 Coverage Results" MODIFIED="1521543966152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误" />
     <SUITE FILE_PATH="coverage/Python$forfor_else.coverage" NAME="for与for-else循环 Coverage Results" MODIFIED="1521458424655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/2.for与for-else循环" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="新篇章导言 Coverage Results" MODIFIED="1521459064033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/4.新篇章导言" />
+    <SUITE FILE_PATH="coverage/Python$c7.coverage" NAME="c7 Coverage Results" MODIFIED="1521542746158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七章/9._init_.py的用法" />
+    <SUITE FILE_PATH="coverage/Python$code.coverage" NAME="code Coverage Results" MODIFIED="1521545481571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点" />
+    <SUITE FILE_PATH="coverage/Python$c3.coverage" NAME="c3 Coverage Results" MODIFIED="1521546106047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="while循环与使用场景.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.第七章/1.while循环与使用场景/while循环与使用场景.py">
+      <file leaf-file-name="成员可见性.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/成员可见性.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="0">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="for与for-else循环.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.第七章/2.for与for-else循环/for与for-else循环.py">
+      <file leaf-file-name="没有什么不能访问.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.第九章/13.没有什么是不能访问/没有什么不能访问.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            <state relative-caret-position="418">
+              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="for与range.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.第七章/3.for与range/for与range.py">
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.第十章/1.初识正则表达式/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="新篇章导言.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7.第七章/4.新篇章导言/新篇章导言.py">
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.第十章/4.概括字符集/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.第十章/5.数量词/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9.第九章/14.继承/c5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.第九章/14.继承/c6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,46 +195,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pub</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/3.第三章/303-304-10,2,8,16进制.py" />
-        <option value="$PROJECT_DIR$/3.第三章/305python的基本数据类型2.py" />
-        <option value="$PROJECT_DIR$/3.第三章/306-Python的及嫩数据类型-复数.py" />
-        <option value="$PROJECT_DIR$/3.第三章/307Python的字符串.py" />
-        <option value="$PROJECT_DIR$/3.第三章/307Python的字符串1.py" />
-        <option value="$PROJECT_DIR$/3.第三章/308python的字符串2.py" />
-        <option value="$PROJECT_DIR$/3.第三章/308python的字符串-转义字符.py" />
-        <option value="$PROJECT_DIR$/3.第三章/309python字符串原始字符串.py" />
-        <option value="$PROJECT_DIR$/3.第三章/310-312字符串运算.py" />
-        <option value="$PROJECT_DIR$/4.第四章/1.列表的定义/1.list.py" />
-        <option value="$PROJECT_DIR$/4.第四章/2.列表的操作/2.list.py" />
-        <option value="$PROJECT_DIR$/4.第四章/3.序列/序列.py" />
-        <option value="$PROJECT_DIR$/4.第四章/4.序列的总结/序列总结.py" />
-        <option value="$PROJECT_DIR$/4.第四章/4.序列的总结/4.序列总结.py" />
-        <option value="$PROJECT_DIR$/4.第四章/5.集合/set.py" />
-        <option value="$PROJECT_DIR$/4.第四章/6.字典/dict.py" />
-        <option value="$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/code.py" />
-        <option value="$PROJECT_DIR$/5.第五章/1.什么是变量/variable.py" />
-        <option value="$PROJECT_DIR$/5.第五章/2.变量的命名规则/变量命名规则.py" />
-        <option value="$PROJECT_DIR$/5.第五章/3.值类型与引用类型/3.值类型与引用类型.py" />
-        <option value="$PROJECT_DIR$/5.第五章/3.值类型与引用类型/值类型与引用类型.py" />
-        <option value="$PROJECT_DIR$/5.第五章/4.列表的可变与元组的不可变/list和tuple.py" />
-        <option value="$PROJECT_DIR$/5.第五章/5.运算符号/运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/6.赋值运算符/复制运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/6.赋值运算符/赋值运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/7.比较运算符/比较运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/8.不只是数字才能做比较运算/比较运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/9.逻辑运算符/逻辑运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/10.成员运算符/成员运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/12.如何判断变量的值、类型/判断变量的值和类型.py" />
-        <option value="$PROJECT_DIR$/5.第五章/11.身份运算符/身份运算符.py" />
-        <option value="$PROJECT_DIR$/5.第五章/13.位运算符/位运算符.py" />
-        <option value="$PROJECT_DIR$/6.第六章/1.什么是表达式/code.py" />
         <option value="$PROJECT_DIR$/6.第六章/1.什么是表达式/表达式.py" />
         <option value="$PROJECT_DIR$/6.第六章/2.表达式的优先级/code.py" />
         <option value="$PROJECT_DIR$/6.第六章/2.表达式的优先级/表达式的优先级.py" />
@@ -198,6 +223,40 @@
         <option value="$PROJECT_DIR$/7.第七章/2.for与for-else循环/for与for-else循环.py" />
         <option value="$PROJECT_DIR$/7.第七章/3.for与range/for与range.py" />
         <option value="$PROJECT_DIR$/7.第七章/4.新篇章导言/新篇章导言.py" />
+        <option value="$PROJECT_DIR$/7.第七章/5.python工程的组织结构：包。模块、类/包,模块,类.py" />
+        <option value="$PROJECT_DIR$/7.第七章/7.import导入模块/import导入模块.py" />
+        <option value="$PROJECT_DIR$/7.第七章/8.from import导入变量/__init__.py" />
+        <option value="$PROJECT_DIR$/7.第七章/8.from import导入变量/from import导入变量.py" />
+        <option value="$PROJECT_DIR$/7.第七章/9._init_.py的用法/_init_.py的用法.py" />
+        <option value="$PROJECT_DIR$/7.第七章/9._init_.py的用法/c7.py" />
+        <option value="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c15.py" />
+        <option value="$PROJECT_DIR$/8.第八章/1.认识函数/1.认识函数.py" />
+        <option value="$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/c3.py" />
+        <option value="$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/如何让函数返回多个结果.py" />
+        <option value="$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/序列解包与链式赋值.py" />
+        <option value="$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/默认参数与关键字参数.py" />
+        <option value="$PROJECT_DIR$/8.第八章/默认参数/默认参数.py" />
+        <option value="$PROJECT_DIR$/8.第八章/默认参数/c6.py" />
+        <option value="$PROJECT_DIR$/8.第八章/7.可变参数/可变参数.py" />
+        <option value="$PROJECT_DIR$/8.第八章/8.关键字可变参数/关键字可变参数.py" />
+        <option value="$PROJECT_DIR$/8.第八章/9.变量作用域/可变作用域.py" />
+        <option value="$PROJECT_DIR$/8.第八章/10.作用域链/作用域链.py" />
+        <option value="$PROJECT_DIR$/8.第八章/10.作用域链/作用域链2.py" />
+        <option value="$PROJECT_DIR$/8.第八章/11.global关键字/c13.py" />
+        <option value="$PROJECT_DIR$/8.第八章/11.global关键字/global关键字.py" />
+        <option value="$PROJECT_DIR$/8.第八章/12.划算还是不划算/划算不划算.py" />
+        <option value="$PROJECT_DIR$/乘法口诀.py" />
+        <option value="$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/code.py" />
+        <option value="$PROJECT_DIR$/9.第九章/1.类的定义/code.py" />
+        <option value="$PROJECT_DIR$/9.第九章/8.self与实例方法/self与实例方法.py" />
+        <option value="$PROJECT_DIR$/9.第九章/3.类与对象/类与对象.py" />
+        <option value="$PROJECT_DIR$/9.第九章/6.类变量和实例变量/code.py" />
+        <option value="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/code.py" />
+        <option value="$PROJECT_DIR$/9.第九章/4.构造函数/code.py" />
+        <option value="$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/成员可见性.py" />
+        <option value="$PROJECT_DIR$/9.第九章/13.没有什么是不能访问/没有什么不能访问.py" />
+        <option value="$PROJECT_DIR$/9.第九章/14.继承/code.py" />
+        <option value="$PROJECT_DIR$/9.第九章/14.继承/c5.py" />
       </list>
     </option>
   </component>
@@ -208,8 +267,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="width" value="1440" />
+    <option name="x" value="1653" />
+    <option name="width" value="1227" />
     <option name="height" value="1800" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -241,31 +300,93 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7.第七章" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7.第七章" type="462c0819:PsiDirectoryNode" />
-              <item name="1.while循环与使用场景" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="1.类的定义" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7.第七章" type="462c0819:PsiDirectoryNode" />
-              <item name="2.for与for-else循环" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="4.构造函数" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7.第七章" type="462c0819:PsiDirectoryNode" />
-              <item name="3.for与range" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="6.类变量和实例变量" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7.第七章" type="462c0819:PsiDirectoryNode" />
-              <item name="4.新篇章导言" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="11.静态方法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="12.成员可见性：公开和私有" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="13.没有什么是不能访问" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="9.第九章" type="462c0819:PsiDirectoryNode" />
+              <item name="14.继承" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="10.第十章" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="10.第十章" type="462c0819:PsiDirectoryNode" />
+              <item name="1.初识正则表达式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="10.第十章" type="462c0819:PsiDirectoryNode" />
+              <item name="4.概括字符集" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="10.第十章" type="462c0819:PsiDirectoryNode" />
+              <item name="5.数量词" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="11.第十一章" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="11.第十一章" type="462c0819:PsiDirectoryNode" />
+              <item name="1.枚举其实是一个类" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="12.第十二章" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="14.第十四章" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,14 +401,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9.第九章/14.继承" />
+      <recent name="$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误" />
+      <recent name="$PROJECT_DIR$/7.第七章/9._init_.py的用法" />
+      <recent name="$PROJECT_DIR$/7.第七章/8.from import导入变量" />
+      <recent name="$PROJECT_DIR$/7.第七章/6.python包与模块的名字" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9.第九章" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/3.第三章" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/6.第六章/2.表达式的优先级" />
-      <recent name="$PROJECT_DIR$/4.第四章" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,111 +426,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.新篇章导言">
-    <configuration name="新篇章导言" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.c5">
+    <configuration name="乘法口诀" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.第七章/4.新篇章导言" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.第七章/4.新篇章导言/新篇章导言.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/乘法口诀.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="11.动态语言" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="c13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.第六章" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.第八章/11.global关键字" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.第六章/11.动态语言.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.第八章/11.global关键字/c13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="for与for-else循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="c5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.第七章/2.for与for-else循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.第九章/14.继承" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.第七章/2.for与for-else循环/for与for-else循环.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.第九章/14.继承/c5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="for与range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="c6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.第七章/3.for与range" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.第九章/14.继承" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.第七章/3.for与range/for与range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.第九章/14.继承/c6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="while循环与使用场景" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="global关键字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.第七章/1.while循环与使用场景" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.第八章/11.global关键字" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.第七章/1.while循环与使用场景/while循环与使用场景.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.第八章/11.global关键字/global关键字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.11.动态语言" />
-      <item index="1" class="java.lang.String" itemvalue="Python.while循环与使用场景" />
-      <item index="2" class="java.lang.String" itemvalue="Python.for与for-else循环" />
-      <item index="3" class="java.lang.String" itemvalue="Python.for与range" />
-      <item index="4" class="java.lang.String" itemvalue="Python.新篇章导言" />
+      <item index="0" class="java.lang.String" itemvalue="Python.global关键字" />
+      <item index="1" class="java.lang.String" itemvalue="Python.c13" />
+      <item index="2" class="java.lang.String" itemvalue="Python.乘法口诀" />
+      <item index="3" class="java.lang.String" itemvalue="Python.c6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.c5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.新篇章导言" />
-        <item index="1" class="java.lang.String" itemvalue="Python.for与range" />
-        <item index="2" class="java.lang.String" itemvalue="Python.for与for-else循环" />
-        <item index="3" class="java.lang.String" itemvalue="Python.while循环与使用场景" />
-        <item index="4" class="java.lang.String" itemvalue="Python.11.动态语言" />
+        <item index="0" class="java.lang.String" itemvalue="Python.c5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.c6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.乘法口诀" />
+        <item index="3" class="java.lang.String" itemvalue="Python.c13" />
+        <item index="4" class="java.lang.String" itemvalue="Python.global关键字" />
       </list>
     </recent_temporary>
   </component>
@@ -424,18 +548,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1440" height="1800" extended-state="0" />
+    <frame x="1653" y="0" width="1227" height="1800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19611157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961878" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -445,7 +571,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -460,289 +585,410 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4.第四章/5.集合/set.py">
+    <entry file="file://$PROJECT_DIR$/7.第七章/9._init_.py的用法/c13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.第四章/Python数据类型总结.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.第四章/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.第四章/6.字典/readme.md">
+    <entry file="file://$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/p/p1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.第四章/6.字典/dict.py">
+    <entry file="file://$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/t/t1/c9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/1.认识函数/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/4.序列解包与链式赋值/序列解包与链式赋值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/3.如何让函数返回多个结果/如何让函数返回多个结果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/c3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/2.函数的定义及运行特点/函数的定义及运行特点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/1.认识函数/1.认识函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.第七章/10.包与模块的几个常见错误/c15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/9.变量作用域/变量作用域.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/8.关键字可变参数/关键字可变参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/7.可变参数/可变参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/5.默认参数与关键字参数/默认参数与关键字参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/10.作用域链/作用域链.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/10.作用域链/作用域链2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/11.global关键字/c13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/11.global关键字/global关键字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/12.划算还是不划算/划算不划算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/默认参数/c6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八章/默认参数/默认参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/乘法口诀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/3.类与对象/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/2.浅谈函数与方法的区别/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/8.self与实例方法/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/4.构造函数/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/6.类变量和实例变量/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/1.类的定义/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/8.self与实例方法/self与实例方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/3.类与对象/类与对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/11.静态方法/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/11.静态方法/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/12.成员可见性：公开和私有/成员可见性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九章/13.没有什么是不能访问/没有什么不能访问.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.第十章/1.初识正则表达式/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.第十章/4.概括字符集/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.第十章/5.数量词/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11.第十一章/1.枚举其实是一个类/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/5.运算符号/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/4.列表的可变与元组的不可变/list和tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/3.值类型与引用类型/值类型与引用类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/2.变量的命名规则/变量命名规则.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/2.变量的命名规则/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/1.什么是变量/variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/1.什么是变量/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/5.运算符号/运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/6.赋值运算符/赋值运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/7.比较运算符/比较运算符.py">
+    <entry file="file://$PROJECT_DIR$/9.第九章/14.继承/code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/8.不只是数字才能做比较运算/比较运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/9.逻辑运算符/逻辑运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/10.成员运算符/成员运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/11.身份运算符/身份运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/13.位运算符/位运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/1.什么是表达式/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/1.什么是表达式/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/1.什么是表达式/表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/2.表达式的优先级/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/2.表达式的优先级/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.第五章/12.如何判断变量的值、类型/判断变量的值和类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/2.表达式的优先级/表达式的优先级.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/4.在文本文件中编写python代码/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/4.在文本文件中编写python代码/基本类型与基本概念.py">
+    <entry file="file://$PROJECT_DIR$/9.第九章/14.继承/c6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/6.流程控制语句之条件控制一/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/7.常量与pylint的规范/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/9.流程控制语句之条件控制三/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/8.流程控制语句之条件控制二/code.py" />
-    <entry file="file://$PROJECT_DIR$/6.第六章/10.流程控制语句之条件控制四/code.py" />
-    <entry file="file://$PROJECT_DIR$/7.第七章/1.while循环与使用场景/code.py" />
-    <entry file="file://$PROJECT_DIR$/7.第七章/1.while循环与使用场景/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/11.动态语言.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/10.流程控制语句之条件控制四/流程控制语句之条件控制四.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/9.流程控制语句之条件控制三/流程控制语句之条件控制三.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/8.流程控制语句之条件控制二/流程控制语句之条件控制二.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/7.常量与pylint的规范/流程控制语句.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/6.流程控制语句之条件控制一/流程控制语句之条件控制一.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.第六章/5.熟悉VSCode开发环境与python插件安装/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.第七章/2.for与for-else循环/code.py" />
-    <entry file="file://$PROJECT_DIR$/7.第七章/1.while循环与使用场景/while循环与使用场景.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.第七章/2.for与for-else循环/for与for-else循环.py">
+    <entry file="file://$PROJECT_DIR$/9.第九章/14.继承/c5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.第七章/3.for与range/code.py" />
-    <entry file="file://$PROJECT_DIR$/7.第七章/3.for与range/for与range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.第七章/4.新篇章导言/code.py" />
-    <entry file="file://$PROJECT_DIR$/7.第七章/4.新篇章导言/新篇章导言.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
